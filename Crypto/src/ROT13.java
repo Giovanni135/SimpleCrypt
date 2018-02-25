@@ -17,7 +17,7 @@ public class ROT13  {
     }
 
     public String encrypt(String text) {
-        return text;
+
     }
 
     public String decrypt(String text) {
